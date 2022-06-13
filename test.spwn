@@ -1,0 +1,3 @@
+test = 5g
+-> test.move(5, 100, 0.25)
+test.move(10, -10, 2)
